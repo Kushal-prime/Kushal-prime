@@ -88,7 +88,7 @@ I specialize in:
 ## ✦ GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SujalKamate&theme=algolia&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Kushal-prime&theme=algolia&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
@@ -96,9 +96,9 @@ I specialize in:
 ## ✦ GitHub Analytics
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SujalKamate&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SujalKamate&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SujalKamate&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kushal-prime&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kushal-prime&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kushal-prime&theme=tokyonight"/>
 </p>
 
 ---
@@ -115,7 +115,7 @@ I specialize in:
 <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/EKjmM13shb/">
+<a href="https://leetcode.com/u/kushal666g/">
 <img src="https://img.shields.io/badge/LeetCode-0f172a?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
