@@ -2,8 +2,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=170&section=header&animation=fadeIn"/>
 </p>
 
-<h2 align="center">Sujal Kamate</h2>
-<p align="center"><i>AI Systems Engineer · Agentic AI Architect · Hybrid RAG Developer</i></p>
+<h2 align="center">Kushal Garse</h2>
+<p align="center"><i> · Agentic AI Architect · Hybrid RAG Developer</i></p>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Agentic+AI+Architect;Hybrid+RAG+Engineer;Multimodal+AI+Builder;Intel+Unnati+Industrial+Trainee" />
@@ -14,7 +14,7 @@
 ## ✦ Identity
 
 <p align="center">
-I am Sujal Kamate, a 2nd-year Computer Engineering student at PCET’s NMIET Pune (CGPA 8.83) and an aspiring AI Systems Engineer focused on building real-world intelligent systems.
+I am Kushal Garse, a 2nd-year Computer Engineering student at PCET’s NMIET Pune 
 
 I specialize in:
 
@@ -40,11 +40,6 @@ I specialize in:
 
 ## ✦ Projects
 
-##  Intel Unnati – Multilingual NCERT Hybrid RAG
-• Hybrid Retrieval using multilingual-e5 dense + TF-IDF sparse search  
-• Multimodal pipeline: Text + OCR (OpenCV + Tesseract) + Voice (Whisper)  
-• Context-grounded answers using Mistral via Ollama  
-• Grade-specific filtering for NCERT Classes 5-10  
 
 ## AGRIXAI – Agentic Agriculture Platform
 • YOLOv8 crop disease detection  
@@ -84,12 +79,8 @@ I specialize in:
 
 # ✦ Leadership & Achievements
 
-•  **AI Domain Lead – ACM NMIET**  
-•  **Technical Lead – GDG NMIET**  
-•  **5× National Hackathon Finalist**  
-•  **Intel® Unnati Industrial Training Program 2025**  
-•  Mentored 50+ workshops & 500+ students  
-•  Preparing for Smart India Hackathon  
+•  **WEB DEV – ACM NMIET**   
+•  **2× National Hackathon Finalist**  
 
 
 ---
@@ -116,11 +107,11 @@ I specialize in:
 ## ✦ Connect
 
 <p align="center">
-<a href="https://linkedin.com/in/sujal-kamate-66391a2ba">
+<a href="https://www.linkedin.com/in/kushal-garse-96688b27b/">
 <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:sujalvkamate@gmail.com">
+<a href="mailto:kushalgarse666@gmail.com">
 <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -128,7 +119,7 @@ I specialize in:
 <img src="https://img.shields.io/badge/LeetCode-0f172a?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://github.com/SujalKamate">
+<a href="https://github.com/Kushal-prime">
 <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
