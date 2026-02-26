@@ -20,7 +20,7 @@ Maharashtra, India | your@email.com
 
 PROJECTS
 
-SS Cargo Management System
+ISS Cargo Management System
 FastAPI, PostgreSQL, Docker
 
 Developed a scalable backend system using FastAPI and PostgreSQL for efficient cargo operations
