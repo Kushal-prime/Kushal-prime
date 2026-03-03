@@ -50,12 +50,7 @@ I specialize in:
 • FastAPI + PostgreSQL backend  
 • Placement optimization algorithms  
 • Waste planning & time simulation  
-• Docker-deployable API system  
-
-##  Learner AI – Mind-Map Learning System
-• Converts study material into AI-generated mind maps  
-• Built to help slow learners become fast learners  
-• Designed for multilingual education  
+• Docker-deployable API system    
 
 ##  SENTINEL-X – Cyber Threat Prediction
 • Behaviour-based anomaly detection  
