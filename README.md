@@ -6,7 +6,7 @@
 <p align="center"><i> · Agentic AI Architect · Hybrid RAG Developer</i></p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Agentic+AI+Architect;Hybrid+RAG+Engineer;Multimodal+AI+Builder;RAG mobel developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Agentic+AI+Architect;Hybrid+RAG+Engineer;Multimodal+AI+Builder;+RAG mobel developer" />
 </p>
 
 ---
